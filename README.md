@@ -1,6 +1,6 @@
 # PostgREST Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/6H_pGd?referralCode=-YSBwv)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Yqyn-Y?referralCode=-YSBwv)
 
 ![PostgREST](./logo.webp)
 
